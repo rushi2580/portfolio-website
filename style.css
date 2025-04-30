@@ -26,13 +26,17 @@ line-height: 1.6
 }
 
 header{
-background-color:rgb(2, 10, 33);
-border: none;
-backdrop-filter: blur(12px);
-  z-index: 9999;
-background:rgb(3, 10, 33,0.2 );
-
+  background-color:rgb(2, 10, 33);
 }
+/* header{
+  background-color:rgb(2, 10, 33);
+  border: none;
+  backdrop-filter: blur(12px);
+    z-index: 9999;
+  background:rgb(3, 10, 33,0.2 );
+  
+  }
+   */
 .img{
 background-image: url(./images/freepik__upload__22370.png);
 background-size:cover;
