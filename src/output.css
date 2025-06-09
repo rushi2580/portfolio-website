@@ -663,22 +663,6 @@ video {
   width: 100%;
 }
 
-.w-\[\] {
-  width: ;
-}
-
-.w-\[70\] {
-  width: 70;
-}
-
-.w-\[70\%\] {
-  width: 70%;
-}
-
-.w-\[60\%\] {
-  width: 60%;
-}
-
 .max-w-\[100\%\] {
   max-width: 100%;
 }
@@ -789,11 +773,6 @@ video {
 
 .font-serif {
   font-family: ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
-}
-
-.text-3xl {
-  font-size: 1.875rem;
-  line-height: 2.25rem;
 }
 
 .text-4xl {
@@ -999,10 +978,6 @@ video {
 @media (min-width: 1024px) {
   .lg\:ml-12 {
     margin-left: 3rem;
-  }
-
-  .lg\:ml-28 {
-    margin-left: 7rem;
   }
 
   .lg\:hidden {
